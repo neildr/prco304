@@ -1,0 +1,7 @@
+node packages to research & install:
+
+npm install *insert the thing here*
+async
+express
+express-handlbars
+-g nodemon
