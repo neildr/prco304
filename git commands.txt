@@ -1,0 +1,34 @@
+Move to correct folder: 
+
+cd <path to repository>
+
+
+Check status:
+
+git status
+
+(Red files mean not yet added to be committed, green means ready to commit)
+
+
+Add items to commit
+
+git add --all
+
+(Check status again afterwards)
+
+
+Commit changes:
+
+git commit -m "<message>"
+
+
+Push changes to GitHub
+
+git push
+
+
+Pull changes to GitHub
+
+git pull
+
+All done! Congrats! You did a good!
