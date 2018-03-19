@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+html {
+    font-family: 'Nunito', sans-serif;
+}
+body {
+    background-image: url("../images/teambuilder-wallpaper.jpg");
+    background-repeat: no-repeat;
+    display: block;
+    overflow-x: hidden;
+}
+.tinted-image {
+    background:
+      linear-gradient(
+        rgba(0, 0, 0, 0.75),
+        rgba(0, 0, 0, 0.75)
+      ),
+      /* bottom, image */
+      url("../images/teambuilder-wallpaper.jpg");
+  }
+
+.testWhite{
+    color: white;
+}
